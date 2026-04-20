@@ -3,7 +3,7 @@
 **Real-time deepfake detection platform** — analyze images and videos for AI manipulation via a web app, REST API, or browser extension.
 
 Live demo: [deep-proof-ai.vercel.app](https://deep-proof-ai.vercel.app)  
-API: [ashukmr03-deepproof-backend.hf.space](https://ashukmr03-deepproof-backend.hf.space)
+
 
 ---
 
